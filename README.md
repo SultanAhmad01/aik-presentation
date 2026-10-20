@@ -6,7 +6,7 @@ Website presentasi satu halaman (*single-page website*) untuk mata kuliah Al-Isl
 
 1. **Hero / Sampul** — judul, identitas kelompok, logo Trio Savagos, dan navigasi.
 2. **Pendahuluan** — peran Muhammadiyah dalam pendidikan, kesehatan, pelayanan sosial, penanggulangan bencana, dan pemberdayaan ekonomi umat.
-3. **Pokok MKCHM** — lima pokok ringkasan tentang landasan Islam, sumber ajaran, pengamalan, dan cita-cita sosial Muhammadiyah.
+3. **Sistematika MKCHM** — lima pokok ringkasan untuk membantu presentasi. Makalah menjelaskan fungsi MKCHM, tetapi tidak merinci sistematikanya satu per satu; bagian ini ditandai sebagai ringkasan penjelas, bukan kutipan langsung.
 4. **Visi Berkemajuan** — tauhid, ilmu pengetahuan dan teknologi, akhlak, keadilan sosial, serta sikap kritis terhadap taklid buta.
 5. **Sejarah dan Tokoh** — faktor eksternal/internal, gagasan K.H. Faqih Usman, kursus pimpinan di Yogyakarta, perwakilan wilayah, tim penyempurna, Sidang Tanwir Agustus 1962, Muktamar ke-35, serta keterangan MKCHM pada Muktamar ke-37 tahun 1968 sebagaimana disebut dalam makalah terbaru.
 6. **Sepuluh Sifat Kepribadian Muhammadiyah** — ringkasan sepuluh sifat dan contoh penjelasannya berdasarkan bagian baru pada makalah terbaru.
