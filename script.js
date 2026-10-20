@@ -12,7 +12,7 @@
     const progressBar = document.getElementById('reading-progress-bar');
     const header = document.getElementById('site-header');
     const links = [...document.querySelectorAll('.nav-link, .mobile-nav-link')];
-    const sectionTargets = [...new Set(links.map((link) => document.querySelector(link.getAttribute('href'))).filter(Boolean))];
+    const sections = [...document.querySelectorAll('main section[id]')];
     const revealItems = [...document.querySelectorAll('.reveal')];
 
     function setMenuOpen(isOpen) {
@@ -84,7 +84,7 @@
           else link.removeAttribute('aria-current');
         });
       }, { rootMargin: '-22% 0px -62% 0px', threshold: [0, 0.1, 0.25, 0.5] });
-      sectionTargets.forEach((section) => sectionObserver.observe(section));
+      sections.forEach((section) => sectionObserver.observe(section));
     }
   });
 })();
